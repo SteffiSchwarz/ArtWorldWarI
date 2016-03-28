@@ -1,4 +1,4 @@
-ArtWorldWarI MediaNight Version 2015
+#ArtWorldWarI MediaNight Version 2015
 Welcome to ArtWorldWar I!
 
 To start the game in Unity3D (4.6) make sure that you open the LoadingScreen scene and then press Play!
