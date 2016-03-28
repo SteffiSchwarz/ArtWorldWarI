@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &182586
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 482586}
+  - 114: {fileID: 11482586}
+  m_Layer: 0
+  m_Name: SwitchSelectLevelTheme
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &482586
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 182586}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11482586
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 182586}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56cdbb1cedb83d3448e6e15fc26c9f9f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  themeImages:
+  - {fileID: 21300000, guid: ad2df42254ae36f46b5f4f7192ad7462, type: 3}
+  - {fileID: 21300000, guid: 3adc03f69bb767b4ea006cf7679b0ff1, type: 3}
+  - {fileID: 21300000, guid: c9f68dc08c113c744bd3f559de1ac46e, type: 3}
+  - {fileID: 21300000, guid: 4a5878c1d93a4d54c873f81887759a36, type: 3}
+  - {fileID: 21300000, guid: 29cef904c6bee5e49b34b946346df3b0, type: 3}
+  themeBanners:
+  - {fileID: 21300000, guid: 20d0653106d3b684aa96621d81e25633, type: 3}
+  - {fileID: 21300000, guid: 8942b424d9bc8774f87fc30dd9fa4dcb, type: 3}
+  - {fileID: 21300000, guid: 8a94569bc91aa2f4b8ece64f95011a74, type: 3}
+  - {fileID: 21300000, guid: 926c444351b2e72498dfe184e80d70d9, type: 3}
+  - {fileID: 21300000, guid: 9ede317c437331d449158cb09b8b6665, type: 3}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 182586}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

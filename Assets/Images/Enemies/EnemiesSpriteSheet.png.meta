@@ -1,0 +1,1004 @@
+fileFormatVersion: 2
+guid: 787bc948920348d4b8d1382e85053ab9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enemie01_ani01
+    21300002: enemie01_ani02
+    21300004: enemie01_hit01
+    21300006: enemie01_hit02
+    21300008: enemie02_ani01
+    21300010: enemie02_ani02
+    21300012: enemie02_hit01
+    21300014: enemie02_hit02
+    21300016: enemie03_ani01
+    21300018: enemie03_ani02
+    21300020: enemie03_hit01
+    21300022: enemie03_hit02
+    21300024: enemie04_ani01
+    21300026: enemie04_ani02
+    21300028: enemie04_hit01
+    21300030: enemie04_hit02
+    21300032: enemie05_ani01
+    21300034: enemie05_ani02
+    21300036: enemie05_hit01
+    21300038: enemie05_hit02
+    21300040: enemie06_ani01
+    21300042: enemie06_ani02
+    21300044: enemie06_hit01
+    21300046: enemie06_hit02
+    21300048: enemie07_ani01
+    21300050: enemie07_ani02
+    21300052: enemie07_hit01
+    21300054: enemie07_hit02
+    21300056: enemie08_ani01
+    21300058: enemie08_ani02
+    21300060: enemie08_hit01
+    21300062: enemie08_hit02
+    21300064: enemie09_ani01
+    21300066: enemie09_ani02
+    21300068: enemie09_hit01
+    21300070: enemie09_hit02
+    21300072: enemie10_ani01
+    21300074: enemie10_ani02
+    21300076: enemie10_hit01
+    21300078: enemie10_hit02
+    21300080: enemie11_ani01
+    21300082: enemie11_ani02
+    21300084: enemie11_hit01
+    21300086: enemie11_hit02
+    21300088: enemie12_ani01
+    21300090: enemie12_ani02
+    21300092: enemie12_hit01
+    21300094: enemie12_hit02
+    21300096: enemie13_ani01
+    21300098: enemie13_ani02
+    21300100: enemie13_hit01
+    21300102: enemie13_hit02
+    21300104: enemie14_ani01
+    21300106: enemie14_ani02
+    21300108: enemie14_hit01
+    21300110: enemie14_hit02
+    21300112: enemie15_ani01
+    21300114: enemie15_ani02
+    21300116: enemie15_hit01
+    21300118: enemie15_hit02
+    21300120: enemie16_ani01
+    21300122: enemie16_ani02
+    21300124: enemie16_hit01
+    21300126: enemie16_hit02
+    21300128: enemie17_ani01
+    21300130: enemie17_ani02
+    21300132: enemie17_hit01
+    21300134: enemie17_hit02
+    21300136: enemie18_ani01
+    21300138: enemie18_ani02
+    21300140: enemie18_hit01
+    21300142: enemie18_hit02
+    21300144: enemie19_ani01
+    21300146: enemie19_ani02
+    21300148: enemie19_hit01
+    21300150: enemie19_hit02
+    21300152: enemie20_ani01
+    21300154: enemie20_ani02
+    21300156: enemie20_hit01
+    21300158: enemie20_hit02
+    21300160: enemie21_ani01
+    21300162: enemie21_ani02
+    21300164: enemie21_hit01
+    21300166: enemie21_hit02
+    21300168: pissbecken_heads
+    21300170: pissbecken_heads_old
+    21300172: pissbecken_heads_old02
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: enemie01_ani01
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 38
+        width: 137
+        height: 246
+      alignment: 9
+      pivot: {x: .507299244, y: .495934963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie01_ani02
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1087
+        width: 137
+        height: 247
+      alignment: 9
+      pivot: {x: .478102177, y: .493927121}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie01_hit01
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 38
+        width: 137
+        height: 246
+      alignment: 9
+      pivot: {x: .507299244, y: .495934963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie01_hit02
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 38
+        width: 137
+        height: 246
+      alignment: 9
+      pivot: {x: .507299244, y: .495934963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie02_ani01
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 531
+        width: 148
+        height: 250
+      alignment: 9
+      pivot: {x: .493243247, y: .508000016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie02_ani02
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 538
+        width: 150
+        height: 250
+      alignment: 9
+      pivot: {x: .479999989, y: .508000016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie02_hit01
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 286
+        width: 148
+        height: 250
+      alignment: 9
+      pivot: {x: .493243247, y: .508000016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie02_hit02
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 477
+        width: 149
+        height: 250
+      alignment: 9
+      pivot: {x: .476510078, y: .508000016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie03_ani01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 308
+        width: 140
+        height: 146
+      alignment: 9
+      pivot: {x: .528571427, y: .489726037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie03_ani02
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 329
+        width: 140
+        height: 146
+      alignment: 9
+      pivot: {x: .535714269, y: .489726037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie03_hit01
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 329
+        width: 140
+        height: 146
+      alignment: 9
+      pivot: {x: .528571427, y: .489726037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie03_hit02
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 329
+        width: 140
+        height: 146
+      alignment: 9
+      pivot: {x: .528571427, y: .489726037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie04_ani01
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 600
+        width: 126
+        height: 218
+      alignment: 9
+      pivot: {x: .456349194, y: .532110095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie04_ani02
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1559
+        width: 126
+        height: 221
+      alignment: 9
+      pivot: {x: .456349194, y: .524886906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie04_hit01
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 380
+        width: 126
+        height: 218
+      alignment: 9
+      pivot: {x: .456349194, y: .532110095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie04_hit02
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1336
+        width: 126
+        height: 221
+      alignment: 9
+      pivot: {x: .456349194, y: .524886906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie05_ani01
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 478
+        width: 140
+        height: 236
+      alignment: 9
+      pivot: {x: .474999994, y: .493644059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie05_ani02
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 287
+        width: 140
+        height: 231
+      alignment: 9
+      pivot: {x: .489285707, y: .482683986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie05_hit01
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 478
+        width: 140
+        height: 236
+      alignment: 9
+      pivot: {x: .474999994, y: .493644059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie05_hit02
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 286
+        width: 141
+        height: 232
+      alignment: 9
+      pivot: {x: .464539021, y: .480603456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie06_ani01
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 294
+        width: 138
+        height: 235
+      alignment: 9
+      pivot: {x: .5289855, y: .487234056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie06_ani02
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 49
+        width: 139
+        height: 235
+      alignment: 9
+      pivot: {x: .50359714, y: .487234056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie06_hit01
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 57
+        width: 138
+        height: 235
+      alignment: 9
+      pivot: {x: .5289855, y: .487234056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie06_hit02
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 59
+        width: 139
+        height: 234
+      alignment: 9
+      pivot: {x: .532374084, y: .489316225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie07_ani01
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 39
+        width: 146
+        height: 245
+      alignment: 9
+      pivot: {x: .496575356, y: .534693897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie07_ani02
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 40
+        width: 148
+        height: 244
+      alignment: 9
+      pivot: {x: .489864856, y: .536885262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie07_hit01
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 39
+        width: 146
+        height: 245
+      alignment: 9
+      pivot: {x: .496575356, y: .534693897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie07_hit02
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1024
+        width: 147
+        height: 245
+      alignment: 9
+      pivot: {x: .513605416, y: .534693897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie08_ani01
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 290
+        width: 144
+        height: 213
+      alignment: 9
+      pivot: {x: .493055552, y: .514084518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie08_ani02
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 790
+        width: 151
+        height: 214
+      alignment: 9
+      pivot: {x: .516556263, y: .511682272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie08_hit01
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 290
+        width: 144
+        height: 213
+      alignment: 9
+      pivot: {x: .493055552, y: .514084518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie08_hit02
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 505
+        width: 145
+        height: 213
+      alignment: 9
+      pivot: {x: .462068975, y: .514084518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie09_ani01
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 729
+        width: 150
+        height: 254
+      alignment: 9
+      pivot: {x: .476666659, y: .496062994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie09_ani02
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 584
+        width: 150
+        height: 254
+      alignment: 9
+      pivot: {x: .50333333, y: .496062994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie09_hit01
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 745
+        width: 150
+        height: 254
+      alignment: 9
+      pivot: {x: .476666659, y: .496062994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie09_hit02
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1503
+        width: 151
+        height: 254
+      alignment: 9
+      pivot: {x: .447019875, y: .496062994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie10_ani01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1246
+        width: 209
+        height: 255
+      alignment: 9
+      pivot: {x: .488038272, y: .494117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie10_ani02
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1505
+        width: 209
+        height: 252
+      alignment: 9
+      pivot: {x: .488038272, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie10_hit01
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1246
+        width: 209
+        height: 255
+      alignment: 9
+      pivot: {x: .488038272, y: .494117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie10_hit02
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1275
+        width: 209
+        height: 250
+      alignment: 9
+      pivot: {x: .488038272, y: .504000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie11_ani01
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 840
+        width: 158
+        height: 245
+      alignment: 9
+      pivot: {x: .531645596, y: .491836727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie11_ani02
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 720
+        width: 158
+        height: 245
+      alignment: 9
+      pivot: {x: .531645596, y: .491836727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie11_hit01
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1001
+        width: 158
+        height: 245
+      alignment: 9
+      pivot: {x: .531645596, y: .491836727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie11_hit02
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1271
+        width: 162
+        height: 245
+      alignment: 9
+      pivot: {x: .555555582, y: .491836727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie12_ani01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1782
+        width: 336
+        height: 264
+      alignment: 9
+      pivot: {x: .495535702, y: .522727251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie12_ani02
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1782
+        width: 336
+        height: 264
+      alignment: 9
+      pivot: {x: .495535702, y: .522727251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie12_hit01
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1782
+        width: 336
+        height: 264
+      alignment: 9
+      pivot: {x: .495535702, y: .522727251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie12_hit02
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1782
+        width: 336
+        height: 264
+      alignment: 9
+      pivot: {x: .495535702, y: .522727251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie13_ani01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1503
+        width: 272
+        height: 277
+      alignment: 9
+      pivot: {x: .498161763, y: .503610134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie13_ani02
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1759
+        width: 283
+        height: 287
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie13_hit01
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1503
+        width: 272
+        height: 277
+      alignment: 9
+      pivot: {x: .498161763, y: .503610134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie13_hit02
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1759
+        width: 283
+        height: 287
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie14_ani01
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 764
+        width: 177
+        height: 239
+      alignment: 9
+      pivot: {x: .5, y: .506276131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie14_ani02
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 836
+        width: 177
+        height: 240
+      alignment: 9
+      pivot: {x: .522598863, y: .508333325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie14_hit01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 697
+        width: 177
+        height: 239
+      alignment: 9
+      pivot: {x: .5, y: .506276131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie14_hit02
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1005
+        width: 178
+        height: 239
+      alignment: 9
+      pivot: {x: .480337083, y: .506276131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie15_ani01
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1526
+        width: 220
+        height: 254
+      alignment: 9
+      pivot: {x: .49545455, y: .498031497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie15_ani02
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1527
+        width: 220
+        height: 253
+      alignment: 9
+      pivot: {x: .486363649, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie15_hit01
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1271
+        width: 220
+        height: 254
+      alignment: 9
+      pivot: {x: .49545455, y: .498031497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie15_hit02
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1527
+        width: 221
+        height: 253
+      alignment: 9
+      pivot: {x: .50678736, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie16_ani01
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 716
+        width: 165
+        height: 306
+      alignment: 9
+      pivot: {x: .533333361, y: .485294104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie16_ani02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 938
+        width: 178
+        height: 306
+      alignment: 9
+      pivot: {x: .488764048, y: .485294104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie16_hit01
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 820
+        width: 166
+        height: 306
+      alignment: 9
+      pivot: {x: .530120492, y: .485294104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie16_hit02
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 967
+        width: 168
+        height: 306
+      alignment: 9
+      pivot: {x: .517857134, y: .485294104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie17_ani01
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 17
+        width: 138
+        height: 267
+      alignment: 9
+      pivot: {x: .5, y: .505617976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie17_ani02
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 18
+        width: 139
+        height: 266
+      alignment: 9
+      pivot: {x: .467625886, y: .503759384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie17_hit01
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 17
+        width: 138
+        height: 267
+      alignment: 9
+      pivot: {x: .5, y: .505617976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie17_hit02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 17
+        width: 142
+        height: 267
+      alignment: 9
+      pivot: {x: .521126747, y: .509363294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie18_ani01
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1006
+        width: 161
+        height: 230
+      alignment: 9
+      pivot: {x: .512422383, y: .506521761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie18_ani02
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1238
+        width: 161
+        height: 231
+      alignment: 9
+      pivot: {x: .512422383, y: .504329026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie18_hit01
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 985
+        width: 161
+        height: 230
+      alignment: 9
+      pivot: {x: .512422383, y: .506521761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie18_hit02
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1038
+        width: 161
+        height: 231
+      alignment: 9
+      pivot: {x: .512422383, y: .504329026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie19_ani01
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 1248
+        width: 155
+        height: 253
+      alignment: 9
+      pivot: {x: .467741936, y: .555335939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie19_ani02
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1471
+        width: 169
+        height: 286
+      alignment: 9
+      pivot: {x: .511834323, y: .49125874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie19_hit01
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 783
+        width: 155
+        height: 253
+      alignment: 9
+      pivot: {x: .467741936, y: .555335939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie19_hit02
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1217
+        width: 169
+        height: 286
+      alignment: 9
+      pivot: {x: .511834323, y: .49125874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie20_ani01
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 510
+        width: 143
+        height: 233
+      alignment: 9
+      pivot: {x: .524475515, y: .510729611}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie20_ani02
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 40
+        width: 139
+        height: 233
+      alignment: 9
+      pivot: {x: .496402889, y: .506437778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie20_hit01
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 275
+        width: 143
+        height: 233
+      alignment: 9
+      pivot: {x: .524475515, y: .510729611}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie20_hit02
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 295
+        width: 140
+        height: 234
+      alignment: 9
+      pivot: {x: .507142842, y: .508547008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie21_ani01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 456
+        width: 163
+        height: 239
+      alignment: 9
+      pivot: {x: .515337408, y: .512552321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie21_ani02
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 520
+        width: 163
+        height: 242
+      alignment: 9
+      pivot: {x: .515337408, y: .506198347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie21_hit01
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1518
+        width: 163
+        height: 239
+      alignment: 9
+      pivot: {x: .515337408, y: .512552321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemie21_hit02
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 595
+        width: 165
+        height: 239
+      alignment: 9
+      pivot: {x: .5030303, y: .512552321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pissbecken_heads
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1321
+        width: 209
+        height: 203
+      alignment: 9
+      pivot: {x: .502392352, y: .497536957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pissbecken_heads_old
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1128
+        width: 198
+        height: 191
+      alignment: 9
+      pivot: {x: .49494949, y: .510471225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pissbecken_heads_old02
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1078
+        width: 197
+        height: 191
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

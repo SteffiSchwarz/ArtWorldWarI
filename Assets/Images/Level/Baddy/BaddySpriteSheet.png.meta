@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 521c781eb7bc1b149b6e3bf44dd30c45
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: baddy_001
+    21300002: baddy_002
+    21300004: baddy_003
+    21300006: baddy_004
+    21300008: baddy_005
+    21300010: baddy_006
+    21300012: baddy_007
+    21300014: baddy_008
+    21300016: baddy_009
+    21300018: baddy_010
+    21300020: baddy_011
+    21300022: baddy_012
+    21300024: baddy_013
+    21300026: baddy_014
+    21300028: baddy_015
+    21300030: baddy_016
+    21300032: baddy_017
+    21300034: baddy_018
+    21300036: baddy_019
+    21300038: baddy_020
+    21300040: baddy_ball01
+    21300042: baddy_cucumber
+    21300044: markierungbaddy_001
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: baddy_001
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 212
+        width: 104
+        height: 148
+      alignment: 9
+      pivot: {x: .533653855, y: .516891897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baddy_002
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 197
+        width: 121
+        height: 154
+      alignment: 9
+      pivot: {x: .458677679, y: .496753246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baddy_003
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 362
+        width: 104
+        height: 148
+      alignment: 9
+      pivot: {x: .533653855, y: .516891897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baddy_004
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 41
+        width: 121
+        height: 154
+      alignment: 9
+      pivot: {x: .458677679, y: .496753246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baddy_005
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 57
+        width: 108
+        height: 148
+      alignment: 9
+      pivot: {x: .513888896, y: .516891897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baddy_006
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 54
+        width: 109
+        height: 150
+      alignment: 9
+      pivot: {x: .509174287, y: .523333311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baddy_007
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 207
+        width: 109
+        height: 150
+      alignment: 9
+      pivot: {x: .509174287, y: .523333311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baddy_008
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 62
+        width: 104
+        height: 148
+      alignment: 9
+      pivot: {x: .533653855, y: .516891897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baddy_009
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 215
+        width: 114
+        height: 145
+      alignment: 9
+      pivot: {x: .504385948, y: .506896555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baddy_010
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 362
+        width: 126
+        height: 148
+      alignment: 9
+      pivot: {x: .519841254, y: .516891897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baddy_011
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 200
+        width: 126
+        height: 151
+      alignment: 9
+      pivot: {x: .519841254, y: .526490092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baddy_012
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 359
+        width: 126
+        height: 151
+      alignment: 9
+      pivot: {x: .519841254, y: .526490092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baddy_013
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 47
+        width: 117
+        height: 151
+      alignment: 9
+      pivot: {x: .559829056, y: .526490092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baddy_014
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 353
+        width: 131
+        height: 157
+      alignment: 9
+      pivot: {x: .5, y: .506369412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baddy_015
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 47
+        width: 117
+        height: 151
+      alignment: 9
+      pivot: {x: .559829056, y: .526490092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baddy_016
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 194
+        width: 131
+        height: 157
+      alignment: 9
+      pivot: {x: .5, y: .506369412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baddy_017
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 206
+        width: 116
+        height: 151
+      alignment: 9
+      pivot: {x: .564655185, y: .526490092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baddy_018
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 35
+        width: 131
+        height: 157
+      alignment: 9
+      pivot: {x: .5, y: .506369412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baddy_019
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 359
+        width: 116
+        height: 151
+      alignment: 9
+      pivot: {x: .564655185, y: .526490092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baddy_020
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 353
+        width: 131
+        height: 157
+      alignment: 9
+      pivot: {x: .5, y: .506369412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baddy_ball01
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 377
+        width: 132
+        height: 133
+      alignment: 9
+      pivot: {x: .503787875, y: .515037596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baddy_cucumber
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 407
+        width: 83
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: markierungbaddy_001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 12
+        width: 17
+        height: 21
+      alignment: 9
+      pivot: {x: .470588237, y: .523809552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
